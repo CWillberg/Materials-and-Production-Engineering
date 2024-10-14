@@ -5,7 +5,7 @@ theme: default
 header: ''
 footer: ''
 backgroundImage: url('../assets/styles/background.png')
-title: Lecture Alloy Formation
+title: Materials-and-Production-Engineering-Lecture Alloy Formation
 author: Christian Willberg
 ---
 
